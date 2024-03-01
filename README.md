@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devsandroses
-- 👀 I’m interested in ...flowers, gardening, nature, outdoors, animals and all things web dev
-- 🌱 I’m currently learning ...how to be a swe from scratch
+- 👀 I’m interested in ...flowers, gardening, nature, outdoors, animals and all things web development
+- 🌱 I’m currently learning ...how to be a software engineer from scratch; currently working through the Odin Project and a few other books 
 - 💞️ I’m looking to collaborate on ...new projects where I can contribute, grow, learn and add value
 - 📫 How to reach me ...
 
